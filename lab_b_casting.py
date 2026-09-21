@@ -20,6 +20,8 @@ print("Buying 3 of your favorite snack will cost " + str(favorite_snack * 3) + "
 
 # Takes the number input and converts it to a float then multiplies by 3 and converts it back to a string to print the final number.
 
+# Integer cant hold 3.5 because it has a decimal point. Only a float can hold a decimal point.
+
 
 
 

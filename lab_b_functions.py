@@ -16,3 +16,6 @@ def potion_shop(health_potion = 6, mana_potion = 4):
 
 potion_shop(fortnite)
 potion_shop(health_potion = 6, mana_potion = 4)
+# Removing indentation wont work and it needs to be called to run, also the colon being deleted will cause an error. 
+# Only one argument will give no choice
+# it wouldnt know that the function is above it and just give an error.
